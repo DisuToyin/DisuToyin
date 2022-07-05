@@ -58,5 +58,5 @@
 
 <!-- <h2 align="center"> 🏆 Github Trophies</h2> -->
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nneji123&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=DisuToyin&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
