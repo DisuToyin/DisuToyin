@@ -10,7 +10,7 @@
 <h2 align="center"> Contact Me </h2>
 <div>
   <samp>
-    <h2 align="center">😎 you can reach me by:</h2>
+    <h2 align="center">😎 you can reach me on:</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/disu0j/" target="blank"><img align="center"
